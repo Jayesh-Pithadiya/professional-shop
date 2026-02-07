@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wedding Suits",
+    "desc": "Handcrafted perfection for your special day.",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "title": "Custom Shirts",
+    "desc": "Tailor-made shirts with premium cotton and silk.",
+    "icon": "fas fa-shirt"
+  },
+  {
+    "title": "Formal Trousers",
+    "desc": "Perfect fit and comfort for professional excellence.",
+    "icon": "fas fa-briefcase"
+  },
+  {
+    "title": "Ethnic Wear",
+    "desc": "Traditional kurtas and sherwanis with modern touch.",
+    "icon": "fas fa-socks"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "year": "1994",
+    "title": "The Humble Beginning",
+    "desc": "Started with a single sewing machine and a passion for perfection.",
+    "icon": "fas fa-cut"
+  },
+  {
+    "year": "2005",
+    "title": "Establishing Heritage",
+    "desc": "Became known for the finest wedding suits and formal wear in the region.",
+    "icon": "fas fa-award"
+  },
+  {
+    "year": "2015",
+    "title": "Digital Expansion",
+    "desc": "Embracing modern designs while keeping traditional craftsmanship alive.",
+    "icon": "fas fa-fingerprint"
+  },
+  {
+    "year": "2023",
+    "title": "Mastery & Innovation",
+    "desc": "Leading the boutique fashion industry with bespoke tailoring and premium fabrics.",
+    "icon": "fas fa-crown"
+  }
+]
