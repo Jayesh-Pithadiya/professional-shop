@@ -1,66 +1,67 @@
-<b><h1>🌟 Professional Tailor - Master Atelier Website</b></h1>
-<br>
-<b>📖 Project Overview</b>
+<b><h1>🌟 Professional Tailor - Master Atelier Website</h1></b>
 <br>
 
-A premium, cinematic web application for Pithadiya Tailor, a bespoke tailoring brand.
+<b>📖 Project Overview</b>
+<br>
+A premium, cinematic web application for <strong>Pithadiya Tailor</strong>, a bespoke tailoring brand.
 It combines high-end aesthetics, visual storytelling, and a seamless user experience, featuring a dynamic frontend and a secure admin panel.
 <hr>
 
 <b>🚀 Production Status</b>
 <br>
-
 Version: 2.0.0 | Fully Responsive | Optimized & Secure
 <hr>
 
 <b>Highlights:</b>
-
-Enterprise-grade MVC architecture
-
-Fully responsive design (Mobile, Tablet, Desktop)
-
-Security-focused backend
-
-Production-optimized build
-
-SEO-friendly structure
+<ul>
+    <li>Enterprise-grade MVC architecture</li>
+    <li>Fully responsive design (Mobile, Tablet, Desktop)</li>
+    <li>Security-focused backend</li>
+    <li>Production-optimized build</li>
+    <li>SEO-friendly structure</li>
+</ul>
 <hr>
 
-🛠 Tech Stack
-Layer	Technology
-Frontend	React.js (Vite), CSS3 (Custom animations, Glassmorphism)
-Backend	Node.js, Express.js
-Database	JSON-based local storage
-Authentication	JWT (JSON Web Tokens)
-✨ Key Features
-🎨 Frontend
+🛠 <b>Tech Stack</b>
+<table>
+<tr><td>Layer</td><td>Technology</td></tr>
+<tr><td>Frontend</td><td>React.js (Vite), CSS3 (Custom animations, Glassmorphism)</td></tr>
+<tr><td>Backend</td><td>Node.js, Express.js</td></tr>
+<tr><td>Database</td><td>JSON-based local storage</td></tr>
+<tr><td>Authentication</td><td>JWT (JSON Web Tokens)</td></tr>
+</table>
 
-Cinematic preloader & gold-accent animations
-
-Dark mode inspired premium UI
-
-Filterable dynamic gallery & "Coming Soon" teaser mode
-
-Lightbox full-screen viewer
-
-Fully responsive for all devices
 <hr>
+
+✨ <b>Key Features</b>
+
+<h3>🎨 Frontend</h3>
+<ul>
+    <li>Cinematic preloader & gold-accent animations</li>
+    <li>Dark mode inspired premium UI</li>
+    <li>Filterable dynamic gallery & "Coming Soon" teaser mode</li>
+    <li>Lightbox full-screen viewer</li>
+    <li>Fully responsive for all devices</li>
+</ul>
+
+<hr>
+
 <b>🛡 Backend (Admin Panel)</b>
+<ul>
+    <li>Secure admin access & protected routes</li>
+    <li>Manage content in real-time:
+        <ul>
+            <li>Gallery items</li>
+            <li>Customer reviews</li>
+            <li>Services & brand journey</li>
+            <li>Contact info</li>
+        </ul>
+    </li>
+    <li>Centralized logging & error handling</li>
+</ul>
 
-Secure admin access & protected routes
-
-Manage content in real-time:
-
-Gallery items
-
-Customer reviews
-
-Services & brand journey
-
-Contact info
-
-Centralized logging & error handling
 <hr>
+
 <h2>📂 Project Structure</h2>
 <pre>
 client/         → React frontend source code
@@ -86,7 +87,6 @@ npm run dev
 </code></pre>
 
 <hr>
-
 
 <h2>🔐 Production Highlights</h2>
 
@@ -125,25 +125,9 @@ npm run dev
 
 <hr>
 
-
 <p style="text-align:center; font-size:0.9em; color:gray;">
 &copy; 2026 Pithadiya Tailor. All Rights Reserved. <br>
 Design & Developed by <strong>Jayesh Pithadiya</strong> <br>
 ⚠️ This project is for <strong>learning purposes only</strong>. Editing or using it on live websites or for commercial purposes is strictly prohibited. <br>
 ❌ Unauthorized live use may result in legal action.
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
