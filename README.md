@@ -87,13 +87,6 @@ npm run dev
 
 <hr>
 
-<h2>📦 Deployment</h2>
-<ul>
-    <li>Backend: Run with PM2, configure production environment variables securely</li>
-    <li>Frontend: Build and deploy <code>dist</code> folder to hosting</li>
-</ul>
-
-<hr>
 
 <h2>🔐 Production Highlights</h2>
 
